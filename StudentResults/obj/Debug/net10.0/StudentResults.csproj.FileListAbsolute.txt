@@ -1,0 +1,14 @@
+C:\Users\wilhe\source\repos\StudentResults\bin\Debug\net10.0\StudentResults.exe
+C:\Users\wilhe\source\repos\StudentResults\bin\Debug\net10.0\StudentResults.deps.json
+C:\Users\wilhe\source\repos\StudentResults\bin\Debug\net10.0\StudentResults.runtimeconfig.json
+C:\Users\wilhe\source\repos\StudentResults\bin\Debug\net10.0\StudentResults.dll
+C:\Users\wilhe\source\repos\StudentResults\bin\Debug\net10.0\StudentResults.pdb
+C:\Users\wilhe\source\repos\StudentResults\obj\Debug\net10.0\StudentResults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilhe\source\repos\StudentResults\obj\Debug\net10.0\StudentResults.AssemblyInfoInputs.cache
+C:\Users\wilhe\source\repos\StudentResults\obj\Debug\net10.0\StudentResults.AssemblyInfo.cs
+C:\Users\wilhe\source\repos\StudentResults\obj\Debug\net10.0\StudentResults.csproj.CoreCompileInputs.cache
+C:\Users\wilhe\source\repos\StudentResults\obj\Debug\net10.0\StudentResults.dll
+C:\Users\wilhe\source\repos\StudentResults\obj\Debug\net10.0\refint\StudentResults.dll
+C:\Users\wilhe\source\repos\StudentResults\obj\Debug\net10.0\StudentResults.pdb
+C:\Users\wilhe\source\repos\StudentResults\obj\Debug\net10.0\StudentResults.genruntimeconfig.cache
+C:\Users\wilhe\source\repos\StudentResults\obj\Debug\net10.0\ref\StudentResults.dll
