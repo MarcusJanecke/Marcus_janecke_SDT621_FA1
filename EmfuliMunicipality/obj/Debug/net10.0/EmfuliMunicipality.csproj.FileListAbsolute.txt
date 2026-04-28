@@ -1,0 +1,14 @@
+C:\Users\wilhe\source\repos\EmfuliMunicipality\bin\Debug\net10.0\EmfuliMunicipality.exe
+C:\Users\wilhe\source\repos\EmfuliMunicipality\bin\Debug\net10.0\EmfuliMunicipality.deps.json
+C:\Users\wilhe\source\repos\EmfuliMunicipality\bin\Debug\net10.0\EmfuliMunicipality.runtimeconfig.json
+C:\Users\wilhe\source\repos\EmfuliMunicipality\bin\Debug\net10.0\EmfuliMunicipality.dll
+C:\Users\wilhe\source\repos\EmfuliMunicipality\bin\Debug\net10.0\EmfuliMunicipality.pdb
+C:\Users\wilhe\source\repos\EmfuliMunicipality\obj\Debug\net10.0\EmfuliMunicipality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilhe\source\repos\EmfuliMunicipality\obj\Debug\net10.0\EmfuliMunicipality.AssemblyInfoInputs.cache
+C:\Users\wilhe\source\repos\EmfuliMunicipality\obj\Debug\net10.0\EmfuliMunicipality.AssemblyInfo.cs
+C:\Users\wilhe\source\repos\EmfuliMunicipality\obj\Debug\net10.0\EmfuliMunicipality.csproj.CoreCompileInputs.cache
+C:\Users\wilhe\source\repos\EmfuliMunicipality\obj\Debug\net10.0\EmfuliMunicipality.dll
+C:\Users\wilhe\source\repos\EmfuliMunicipality\obj\Debug\net10.0\refint\EmfuliMunicipality.dll
+C:\Users\wilhe\source\repos\EmfuliMunicipality\obj\Debug\net10.0\EmfuliMunicipality.pdb
+C:\Users\wilhe\source\repos\EmfuliMunicipality\obj\Debug\net10.0\EmfuliMunicipality.genruntimeconfig.cache
+C:\Users\wilhe\source\repos\EmfuliMunicipality\obj\Debug\net10.0\ref\EmfuliMunicipality.dll
