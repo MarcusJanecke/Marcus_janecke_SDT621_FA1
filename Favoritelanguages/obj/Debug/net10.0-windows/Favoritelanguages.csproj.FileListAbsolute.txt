@@ -1,0 +1,16 @@
+C:\Users\wilhe\source\repos\Favoritelanguages\obj\Debug\net10.0-windows\FavouriteLanguages.Form1.resources
+C:\Users\wilhe\source\repos\Favoritelanguages\obj\Debug\net10.0-windows\Favoritelanguages.csproj.GenerateResource.cache
+C:\Users\wilhe\source\repos\Favoritelanguages\obj\Debug\net10.0-windows\Favoritelanguages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilhe\source\repos\Favoritelanguages\obj\Debug\net10.0-windows\Favoritelanguages.AssemblyInfoInputs.cache
+C:\Users\wilhe\source\repos\Favoritelanguages\obj\Debug\net10.0-windows\Favoritelanguages.AssemblyInfo.cs
+C:\Users\wilhe\source\repos\Favoritelanguages\obj\Debug\net10.0-windows\Favoritelanguages.csproj.CoreCompileInputs.cache
+C:\Users\wilhe\source\repos\Favoritelanguages\bin\Debug\net10.0-windows\Favoritelanguages.exe
+C:\Users\wilhe\source\repos\Favoritelanguages\bin\Debug\net10.0-windows\Favoritelanguages.deps.json
+C:\Users\wilhe\source\repos\Favoritelanguages\bin\Debug\net10.0-windows\Favoritelanguages.runtimeconfig.json
+C:\Users\wilhe\source\repos\Favoritelanguages\bin\Debug\net10.0-windows\Favoritelanguages.dll
+C:\Users\wilhe\source\repos\Favoritelanguages\bin\Debug\net10.0-windows\Favoritelanguages.pdb
+C:\Users\wilhe\source\repos\Favoritelanguages\obj\Debug\net10.0-windows\Favoritelanguages.dll
+C:\Users\wilhe\source\repos\Favoritelanguages\obj\Debug\net10.0-windows\refint\Favoritelanguages.dll
+C:\Users\wilhe\source\repos\Favoritelanguages\obj\Debug\net10.0-windows\Favoritelanguages.pdb
+C:\Users\wilhe\source\repos\Favoritelanguages\obj\Debug\net10.0-windows\Favoritelanguages.genruntimeconfig.cache
+C:\Users\wilhe\source\repos\Favoritelanguages\obj\Debug\net10.0-windows\ref\Favoritelanguages.dll
