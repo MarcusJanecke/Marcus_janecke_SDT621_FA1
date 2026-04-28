@@ -1,0 +1,17 @@
+C:\Users\wilhe\source\repos\HomeAffairs\bin\Debug\net10.0-windows\HomeAffairs.exe
+C:\Users\wilhe\source\repos\HomeAffairs\bin\Debug\net10.0-windows\HomeAffairs.deps.json
+C:\Users\wilhe\source\repos\HomeAffairs\bin\Debug\net10.0-windows\HomeAffairs.runtimeconfig.json
+C:\Users\wilhe\source\repos\HomeAffairs\bin\Debug\net10.0-windows\HomeAffairs.dll
+C:\Users\wilhe\source\repos\HomeAffairs\bin\Debug\net10.0-windows\HomeAffairs.pdb
+C:\Users\wilhe\source\repos\HomeAffairs\obj\Debug\net10.0-windows\HomeAffairsDigitalIdentityProcessor.Form1.resources
+C:\Users\wilhe\source\repos\HomeAffairs\obj\Debug\net10.0-windows\HomeAffairs.csproj.GenerateResource.cache
+C:\Users\wilhe\source\repos\HomeAffairs\obj\Debug\net10.0-windows\HomeAffairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilhe\source\repos\HomeAffairs\obj\Debug\net10.0-windows\HomeAffairs.AssemblyInfoInputs.cache
+C:\Users\wilhe\source\repos\HomeAffairs\obj\Debug\net10.0-windows\HomeAffairs.AssemblyInfo.cs
+C:\Users\wilhe\source\repos\HomeAffairs\obj\Debug\net10.0-windows\HomeAffairs.csproj.CoreCompileInputs.cache
+C:\Users\wilhe\source\repos\HomeAffairs\obj\Debug\net10.0-windows\HomeAffairs.dll
+C:\Users\wilhe\source\repos\HomeAffairs\obj\Debug\net10.0-windows\refint\HomeAffairs.dll
+C:\Users\wilhe\source\repos\HomeAffairs\obj\Debug\net10.0-windows\HomeAffairs.pdb
+C:\Users\wilhe\source\repos\HomeAffairs\obj\Debug\net10.0-windows\HomeAffairs.genruntimeconfig.cache
+C:\Users\wilhe\source\repos\HomeAffairs\obj\Debug\net10.0-windows\ref\HomeAffairs.dll
+C:\Users\wilhe\source\repos\HomeAffairs\obj\Debug\net10.0-windows\HomeAffairs.Properties.Resources.resources
